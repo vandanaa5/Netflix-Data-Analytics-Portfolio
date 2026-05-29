@@ -48,10 +48,5 @@ This portfolio showcases an end-to-end Data Analytics project using the Netflix 
 
 ---
 
-## Dashboard Preview
-(Add dashboard screenshot here)
-
----
-
 ## Author
 Vandana Chokkaraju
